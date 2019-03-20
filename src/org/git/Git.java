@@ -9,15 +9,14 @@ public class Git {
 
 	}
 
-<<<<<<< HEAD
-	public void checkbox() {
-		System.out.println("Checkbox");
-=======
-	public void dropdown() {
-		System.out.println("Dropdown");
->>>>>>> 698699209c26fec482e6f847d22a4412b67eb38c
+	
+	public void username() {
+	System.out.println("username");
 
 	}
 	
 	
-}
+	}
+	
+	
+
