@@ -10,13 +10,20 @@ public class Git {
 	}
 
 	
+	public void pwd() {
+		System.out.println("password");
+
+	}
+	
 	public void username() {
 	System.out.println("username");
+
 
 	}
 	
 	
+
 	}
 	
-	
+
 
